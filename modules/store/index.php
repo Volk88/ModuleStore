@@ -11,9 +11,6 @@ elseif($act == "" && $op == "" && $id > 0){
 
 }
 
-elseif($act == "catalog"){
+elseif($act == "settings"){
 
-}
-elseif($act == "profiles"){
-  
 }
